@@ -2,7 +2,10 @@
 <html lang="pt-BR">
 <head>
  <meta charset="UTF-8">
- <title>Minha página PHP</title>
+ <title>Minha página PHP - Caio Letty</title>
+ <p>Hospedagem de aplicações é o serviço que mantém o código de um sistema
+ rodando em servidores na Internet, permitindo acesso por uma URL, sem que
+ o desenvolvedor precise gerenciar a infraestrutura.</p>
 </head>
 <body>
  <h1>
